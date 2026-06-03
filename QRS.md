@@ -77,7 +77,8 @@ Sample Output:
 •	Clean, denoised ECG signal after filtering.
 
 ## OUTPUT
- 
+ <img width="883" height="872" alt="image" src="https://github.com/user-attachments/assets/d5f36968-52a3-49b2-a393-b10308b83cdf" />
+
 
 
 ## RESULT:
