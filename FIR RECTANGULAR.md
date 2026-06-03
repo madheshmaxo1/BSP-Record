@@ -49,6 +49,7 @@ xlabel(‘Normalised frequency,\omega/\pi’, ‘font weight’, ‘b’);
 ylabel (‘Magnitude’, ‘font weight’, ‘b’);
 
 ## OUTPUT 
+<img width="877" height="863" alt="image" src="https://github.com/user-attachments/assets/3ed41b3b-b051-4d39-a100-1f5fe248485e" />
 
 ## RESULT
 Thus the FIR filter with the given specifications was designed using rectangular windowing technique.
