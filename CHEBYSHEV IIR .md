@@ -63,6 +63,7 @@ ylabel('Magnitude','fontweight','b');
 
 
 ## OUTPUT
+<img width="893" height="895" alt="image" src="https://github.com/user-attachments/assets/c334c436-01c6-4fc6-88ad-69df518e4e69" />
 
 
 
